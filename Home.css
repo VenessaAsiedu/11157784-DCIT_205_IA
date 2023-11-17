@@ -1,0 +1,55 @@
+header {
+    font-family :'Times New Roman', Times, serif;
+    text-align: right;
+}
+
+.vagas{
+    text-align: center;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 2px;
+    height: 420px;
+    font-weight: bold;
+    color: white;
+}
+
+    
+footer{ 
+    background-color:darkturquoise;
+}
+
+.logo-container {
+    display: flex; 
+    column-gap: 2px;
+    justify-content: space-between; 
+}
+
+.small-logo {
+    width: 250px; 
+    height: auto; 
+}
+
+.UNI {
+    font-size: 25px; 
+    font-weight: bold;
+}
+
+.vagas2 {
+    text-align: right;
+
+}
+
+.vagas3 {
+    text-align: left;
+}
+
+video {
+    width: 100%; 
+    height: 80%; 
+    object-fit: cover; 
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; 
+}
+
