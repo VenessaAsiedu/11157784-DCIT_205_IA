@@ -24,15 +24,41 @@ header {
 
 .button {
     display: inline-block;
-    padding: 10px 20px;
+    padding: 4px 8px;
     font-size: 16px;
     text-decoration: none;
-    color: #fff;
-    background-color: darkturquoise;
+    color: darkturquoise;
+    background-color: none;
     border: 1px solid darkturquoise;
-    border-radius: 5px;
-  }
+    cursor: pointer;
+    transition: 1s;
+    overflow: hidden;
+    position: relative;
 
+  }
+.button:hover {
+    color: darkturquoise;
+}
+.button::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 0%;
+    background: darkturquoise;
+    z-index: -1;
+    transition: 2s;
+}
+
+.button::before{
+top: 0;
+bottom: 0;
+border-radius: 50% 50% 0 0;
+}
+
+.button:hover::before{ 
+    height: 180%; 
+}
 
 .vagas3 {
    text-align:center;
@@ -73,3 +99,19 @@ footer{
     text-align: center;
     font-size: bold;
 }
+
+.vid{
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100;
+ }
+ 
+ .text1{
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%,-50%);
+ font-size: 24px;
+ font-weight: bold;
+ }
