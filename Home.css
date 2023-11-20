@@ -13,11 +13,11 @@ header {
     height: auto; 
 }
 
-.vagas1 {
+.header {
     text-align: left;
 }
 
-.vagas2{
+.navigation{
     text-align: right;
 
 }
@@ -37,7 +37,7 @@ header {
 
   }
 .button:hover {
-    color: darkturquoise;
+    color: rgb(255, 255, 255);
 }
 .button::before{
     content: "";
@@ -47,7 +47,7 @@ header {
     height: 0%;
     background: darkturquoise;
     z-index: -1;
-    transition: 2s;
+    transition: 2.5s;
 }
 
 .button::before{
@@ -60,7 +60,7 @@ border-radius: 50% 50% 0 0;
     height: 180%; 
 }
 
-.vagas3 {
+.Welcome {
    text-align:center;
 
 }
@@ -115,3 +115,13 @@ footer{
  font-size: 24px;
  font-weight: bold;
  }
+
+ .resource{
+   width: 800px;
+   height: 100px;
+ }
+
+  img{
+    max-width: 500px;
+    max-height: 700px;
+  }
