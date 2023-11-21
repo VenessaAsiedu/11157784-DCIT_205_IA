@@ -232,10 +232,10 @@ header {
     }
 
     h1 {
-        font-size: 70px;
+        font-size: 40px;
         color: rgb(12, 36, 72);
         font-weight: 700;
-        text-align: center;
+        text-align: center; 1
     }
 
     p {
