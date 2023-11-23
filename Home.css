@@ -71,22 +71,6 @@ header {
     text-align: center;
 }
 
-.photo {
-    position: relative;
-    text-align: center;
-    color: white;
-    width: 100;
-}
-
-.text {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 24px;
-    font-weight: bold;
-}
-
 .content {
     text-align:justify;
     font-size: bold;
@@ -99,11 +83,6 @@ header {
     transform: translate(-50%, -50%);
     font-size: 24px;
     font-weight: bold;
-}
-
-.resource {
-    width: 800px;
-    height: 100px;
 }
 
 .small-logo {
@@ -241,4 +220,8 @@ header {
     p {
         color: rgb(19, 12, 12);
     font-size: 1.2em;
+    }
+
+    .About{
+        background-color:azure;
     }
