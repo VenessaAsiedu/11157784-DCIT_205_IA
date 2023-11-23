@@ -112,7 +112,7 @@ header {
 }
 
 .footer {
-    background-color: aqua;
+    background-color: rgb(12, 36, 72);
     display: flex;
     justify-content: space-around;
     align-items: flex-start;
