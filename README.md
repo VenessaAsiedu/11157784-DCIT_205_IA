@@ -8,6 +8,12 @@ VENESSA ASIEDU<br>
 
 SCREENSHOTS OF PAGES <br>
 Homepage<br>
-<img src="C:\Users\ProX\Downloads\CS-Department home.png">
+<img src="C:\Users\ProX\Downloads\CS-Department home.png"> <br>
+
+About<br>
+<img src="C:\Users\ProX\Downloads\CS-Department about.png"> <br>
+
+Catalog<br>
+<img src="C:\Users\ProX\Downloads\CS-Department catalog.png"> <br>
 LESSON LEARNT<br>
 From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
