@@ -218,13 +218,16 @@ header {
         text-align: center; 
     }
 
+    h2 {
+        font-size: 25px;
+        color: rgb(12, 36, 72);
+        font-weight: 500;
+        text-align: center; 
+    }
+
     p {
         color: rgb(19, 12, 12);
     font-size: 1.2em;
-    }
-
-    .About{
-        background-color:azure;
     }
 
     .BB{
@@ -236,3 +239,48 @@ header {
     padding: 20px;
     border: 1px solid #ccc;
 }
+
+.About {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /*.g4 {
+    max-width: 25%;
+    max-height:15%;
+    float: left;
+  }*/
+  
+  .text2 {
+    font-size: 20px;
+    padding-left: 2px;
+    padding-top: 20%;
+    float: left;
+  }
+
+
+
+.a-left-section {
+           width: 70%;
+           box-sizing: border-box; 
+           float: left; 
+           background-color: #f0f0f0;
+           padding: 20px;
+       }
+
+.a-right-section {
+        width: 30%;
+        height: 608px;
+        box-sizing: border-box; 
+        float: left; 
+        background-color: #e0e0e0;
+        padding: 20px;
+    }
+
+    
+
+
+       
+
+
