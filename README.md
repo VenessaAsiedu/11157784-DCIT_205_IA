@@ -6,7 +6,8 @@ CLONING AND SETTING PROJECT UP<br>
 VENESSA ASIEDU<br>
 11157784
 
-SCREENSHOTS OF PAGES
-
+SCREENSHOTS OF PAGES <br>
+Homepage<br>
+<img src="C:\Users\ProX\Downloads\CS-Department home.png">
 LESSON LEARNT<br>
 From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
