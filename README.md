@@ -30,9 +30,7 @@
     </ol>
 </ul>
 <ul>
-
-
-    <li><strong>Screenshots of Pages</strong></li>
+<li><strong>Screenshots of Pages</strong></li>
     <li><img src="CSD/CS-Department home.png" alt="Homepage"></li>
     <li><img src="CSD/CS-department about.png" alt="About"></li>
     <li><img src="CSD/CS-department catalog.png" alt="Catalog"></li>
