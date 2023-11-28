@@ -338,3 +338,35 @@ header {
         border-radius: 8px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }   
+
+    .sbrc-members {
+        display: flex;
+        justify-content: space-around;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+
+    .member-card {
+        width: 200px;
+        background-color: #fff;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: 10px;
+    }
+
+    .member-card img {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .member-details {
+        padding: 10px;
+    }
+
+    .member-details h3 {
+        color: #333;
+        margin: 10px 0;
+    }
