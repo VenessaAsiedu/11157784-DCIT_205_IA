@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
+    padding: 0;
 }
 
 header {
@@ -302,8 +303,38 @@ header {
     }
 
     
+    .levels-container {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+      }
+  
+      
+      .level {
+        text-align: center;
+        padding: 10px;
+        border: 1px solid #3498db;
+        margin: 10px;
+        cursor: pointer;
+      }
+  
+      section {
+        padding: 50px 20px;
+        text-align: center;
+    }
 
+    .resource-images {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
 
-       
-
-
+    .resource-images img {
+        width: 200px;
+        height: auto;
+        margin: 10px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }   
