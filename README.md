@@ -21,5 +21,12 @@ Courses<br>
 
 Resources<br>
 <img src="CSD/CS-Department resources.png"> <br>
+
+Event<br>
+<img src="CSD/CS-Department event.png"> <br>
+
+Staff<br>
+<img src="CSD/CS-department staff.png"> <br>
+
 LESSON LEARNT<br>
 From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
