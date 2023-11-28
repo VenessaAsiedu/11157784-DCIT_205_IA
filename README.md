@@ -1,55 +1,42 @@
-INTRODUCTION <br>
-This website is about the Computer Science Department of the University of Ghana.It will give you every aspects of the Computer Science Department from the courses offered and lecturers and contact and events of the department.The purpose of the creation of this website is to enhanced my development skills in a practical context and showcase my understanding of computer science resources.
+<ul>
+    <li><strong>Screenshots of Pages (Continued)</strong></li>
+    <li><img src="CSD/CS-department about.png" alt="About"></li>
+    <li><img src="CSD/CS-department catalog.png" alt="Catalog"></li>
+    <li><img src="CSD/CS-Department courses.png" alt="Courses"></li>
+    <li><img src="CSD/CS-Department resources.png" alt="Resources"></li>
+    <li><img src="CSD/CS-department event.png" alt="Event"></li>
+    <li><img src="CSD/CS-department staff.png" alt="Staff"></li>
+    <li><img src="CSD/CS-department compssa.png" alt="Compssa"></li>
+    <li><img src="CSD/CS-department library.png" alt="Library"></li>
+    <li><img src="CSD/CS-department contact.png" alt="Contact"></li>
+</ul>
 
-CLONING AND SETTING PROJECT UP<br>
-1. On your github repository, copy the https 
-2. In your VS code terminal, enter the following command
-git clone 
-Ensure you follow the command with the https that you copied. Then click Enter.
-3. Navigate to the project directory next using this command
-cd
-Followed by your repository name
-4. You are then good to go. You can create a branch though if you like.
-5. Frequently add, commit and push to your github with the following commands
+<ul>
+    <li><strong>Introduction</strong></li>
+    <li>This website is about the Computer Science Department of the University of Ghana. It provides comprehensive information about the department, including courses offered, lecturers, contact details, and events. The purpose of creating this website is to enhance my development skills in a practical context and showcase my understanding of computer science resources.</li>
+</ul>
 
-To add - git add .
-
-To commit - git commit -m "(description)"
-
-
-VENESSA ASIEDU<br>
-11157784
-
-SCREENSHOTS OF PAGES <br>
-Homepage<br>
-<img src="CSD/CS-Department home.png"> <br>
-
-About<br>
-<img src="CSD/CS-department about.png"> <br>
-
-Catalog<br>
-<img src="CSD/CS-department catalog.png"> <br>
-
-Courses<br>
-<img src="CSD/CS-Department courses.png"> <br>
-
-Resources<br>
-<img src="CSD/CS-Department resources.png"> <br>
-
-Event<br>
-<img src="CSD/CS-department event.png"> <br>
-
-Staff<br>
-<img src="CSD/CS-department staff.png"> <br>
-
-Compssa<br>
-<img src="CSD/CS-department compssa.png"> <br>
-
-Library<br>
-<img src="CSD/CS-department library.png"> <br>
-
-Contact<br>
-<img src="CSD/CS-department contact.png"> <br>
-
-LESSON LEARNT<br>
-From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
+<ul>
+    <li><strong>Cloning and Setting Project Up</strong></li>
+    <ol>
+        <li>On your GitHub repository, copy the HTTPS link.</li>
+        <li>In your VS Code terminal, enter the following command:
+            <ul>
+                <li><code>git clone [paste your HTTPS link here]</code></li>
+            </ul>
+            Then press Enter.
+        </li>
+        <li>Navigate to the project directory using the command:
+            <ul>
+                <li><code>cd [your repository name]</code></li>
+            </ul>
+        </li>
+        <li>You are good to go! Optionally, you can create a branch.</li>
+        <li>Frequently add, commit, and push to your GitHub using the following commands:
+            <ul>
+                <li><code>git add .</code></li>
+                <li><code>git commit -m "(description)"</code></li>
+            </ul>
+        </li>
+    </ol>
+</ul>
