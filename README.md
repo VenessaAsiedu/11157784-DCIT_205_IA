@@ -31,5 +31,8 @@ Staff<br>
 Compssa<br>
 <img src="CSD/CS-department compssa.png"> <br>
 
+Library<br>
+<img src="CSD/CS-department library.png"> <br>
+
 LESSON LEARNT<br>
 From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
