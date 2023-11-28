@@ -17,9 +17,9 @@ Catalog<br>
 <img src="CSD/CS-department catalog.png"> <br>
 
 Courses<br>
-<img src="CSD/CS-Department courses"> <br>
+<img src="CSD/CS-Department courses.png"> <br>
 
 Resources<br>
-<img src="CSD/CS-department resources.png"> <br>
+<img src="CSD/CS-Department resources.png"> <br>
 LESSON LEARNT<br>
 From the creating of this website, I learnt how to insert a CSS file to an html file, I learnt the bascis of CSS that is applying styles to my web pages. I learnt how to create a responsive nagivation bar and the use of various tags of html.
